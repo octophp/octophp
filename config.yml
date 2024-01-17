@@ -1,0 +1,33 @@
+title: OctoPHP
+baseline: An effective documentation
+baseurl: http://localhost:8000/
+canonicalurl: true
+description: Inventory management software
+author:
+  name: Kemal Yenilmez
+  url:  
+#image: og-card.png
+language: en
+languages:
+  - code: en
+    name: English
+    locale: en
+theme:
+  - docs
+  - pwa
+serviceworker:
+  enabled: true
+github:
+  repo: https://github.com/octophp/octophp.github.io
+  branch: main
+docsearch:
+  enabled: true
+  appId: 
+  indexName: 
+  apiKey: 
+sidebar:
+  - Introduction
+  - Installation
+  - User Guides
+  - Troubleshooting
+  - Reference
