@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:8000/xsl/atom.xsl" media="all"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>http://localhost:8000/docs/</id>
+  <title>OctoPHP - Docs</title>
+  <subtitle><![CDATA[Inventory management software]]></subtitle>
+  <link href="http://localhost:8000/docs/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:8000/docs/" rel="alternate" type="text/html" />
+  <updated>2024-01-17T12:23:32+00:00</updated>
+  <author>
+    <name>Kemal Yenilmez</name>
+    <uri>http://localhost:8000/</uri>
+  </author>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/user-guides/services/</id>
+    <title>Services</title>
+    <content type="html">
+      <![CDATA[<h1 id="service-management">Service Management</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>]]>
+    </content>
+    <link href="http://localhost:8000/docs/user-guides/services/" rel="alternate" type="text/html" />
+    <published>2024-01-17T15:21:31+00:00</published>
+    <updated>2024-01-17T15:21:31+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/user-guides/settings/</id>
+    <title>Settings</title>
+    <content type="html">
+      <![CDATA[<h1 id="settings">Settings</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>
+<h2 id="inventory-level-statuses">Inventory Level Statuses</h2>
+<figure>
+<picture title="inventory level statuses">
+<source type="image/webp" srcset="http://localhost:8000/assets/thumbnails/480/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.webp 480w, http://localhost:8000/assets/thumbnails/640/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.webp 640w, http://localhost:8000/assets/thumbnails/768/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.webp 768w, http://localhost:8000/assets/thumbnails/1024/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.webp 1024w, http://localhost:8000/assets/thumbnails/1366/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.webp 1366w, http://localhost:8000/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.webp 1550w" sizes="100vw" />
+<img src="http://localhost:8000/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.jpg" alt="inventory level statuses" loading="lazy" decoding="async" class="dark:brightness-90" width="1550" height="608" srcset="http://localhost:8000/assets/thumbnails/480/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.jpg 480w, http://localhost:8000/assets/thumbnails/640/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.jpg 640w, http://localhost:8000/assets/thumbnails/768/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.jpg 768w, http://localhost:8000/assets/thumbnails/1024/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.jpg 1024w, http://localhost:8000/assets/thumbnails/1366/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.jpg 1366w, http://localhost:8000/inventory-level-statuses.971fbb8346bb4a5f42e64b92ea448877.jpg 1550w" sizes="100vw" />
+</picture>
+<figcaption>inventory level statuses</figcaption>
+</figure>
+<h2 id="locations">Locations</h2>]]>
+    </content>
+    <link href="http://localhost:8000/docs/user-guides/settings/" rel="alternate" type="text/html" />
+    <published>2024-01-17T15:16:05+00:00</published>
+    <updated>2024-01-17T15:16:05+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/user-guides/customer-management/</id>
+    <title>Customer management</title>
+    <content type="html">
+      <![CDATA[<h1 id="customer-management">Customer Management</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>
+<h2 id="customer-overview">Customer Overview</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<figure>
+<picture title="customers resource page">
+<source type="image/webp" srcset="http://localhost:8000/assets/thumbnails/480/customers.fffc545c7cfb851e962ec158856944cb.webp 480w, http://localhost:8000/assets/thumbnails/640/customers.fffc545c7cfb851e962ec158856944cb.webp 640w, http://localhost:8000/assets/thumbnails/768/customers.fffc545c7cfb851e962ec158856944cb.webp 768w, http://localhost:8000/assets/thumbnails/1024/customers.fffc545c7cfb851e962ec158856944cb.webp 1024w, http://localhost:8000/assets/thumbnails/1366/customers.fffc545c7cfb851e962ec158856944cb.webp 1366w, http://localhost:8000/customers.fffc545c7cfb851e962ec158856944cb.webp 1587w" sizes="100vw" />
+<img src="http://localhost:8000/customers.fffc545c7cfb851e962ec158856944cb.jpg" alt="customers resource page" loading="lazy" decoding="async" class="dark:brightness-90" width="1587" height="606" srcset="http://localhost:8000/assets/thumbnails/480/customers.fffc545c7cfb851e962ec158856944cb.jpg 480w, http://localhost:8000/assets/thumbnails/640/customers.fffc545c7cfb851e962ec158856944cb.jpg 640w, http://localhost:8000/assets/thumbnails/768/customers.fffc545c7cfb851e962ec158856944cb.jpg 768w, http://localhost:8000/assets/thumbnails/1024/customers.fffc545c7cfb851e962ec158856944cb.jpg 1024w, http://localhost:8000/assets/thumbnails/1366/customers.fffc545c7cfb851e962ec158856944cb.jpg 1366w, http://localhost:8000/customers.fffc545c7cfb851e962ec158856944cb.jpg 1587w" sizes="100vw" />
+</picture>
+<figcaption>customers resource page</figcaption>
+</figure>
+<h2 id="managing-the-customers">Managing the customers</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]>
+    </content>
+    <link href="http://localhost:8000/docs/user-guides/customer-management/" rel="alternate" type="text/html" />
+    <published>2024-01-17T15:14:09+00:00</published>
+    <updated>2024-01-17T15:14:09+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/user-guides/product-management/</id>
+    <title>Product management</title>
+    <content type="html">
+      <![CDATA[<h1 id="product-management">Product management</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>
+<h2 id="product-inventory-list">Product Inventory List</h2>
+<figure>
+<picture title="Product resource page">
+<source type="image/webp" srcset="http://localhost:8000/assets/thumbnails/480/product-list.7755401df0df17f384788ec1d1550e14.webp 480w, http://localhost:8000/assets/thumbnails/640/product-list.7755401df0df17f384788ec1d1550e14.webp 640w, http://localhost:8000/assets/thumbnails/768/product-list.7755401df0df17f384788ec1d1550e14.webp 768w, http://localhost:8000/assets/thumbnails/1024/product-list.7755401df0df17f384788ec1d1550e14.webp 1024w, http://localhost:8000/assets/thumbnails/1366/product-list.7755401df0df17f384788ec1d1550e14.webp 1366w, http://localhost:8000/product-list.7755401df0df17f384788ec1d1550e14.webp 1587w" sizes="100vw" />
+<img src="http://localhost:8000/product-list.7755401df0df17f384788ec1d1550e14.jpg" alt="Product resource page" loading="lazy" decoding="async" class="dark:brightness-90" width="1587" height="587" srcset="http://localhost:8000/assets/thumbnails/480/product-list.7755401df0df17f384788ec1d1550e14.jpg 480w, http://localhost:8000/assets/thumbnails/640/product-list.7755401df0df17f384788ec1d1550e14.jpg 640w, http://localhost:8000/assets/thumbnails/768/product-list.7755401df0df17f384788ec1d1550e14.jpg 768w, http://localhost:8000/assets/thumbnails/1024/product-list.7755401df0df17f384788ec1d1550e14.jpg 1024w, http://localhost:8000/assets/thumbnails/1366/product-list.7755401df0df17f384788ec1d1550e14.jpg 1366w, http://localhost:8000/product-list.7755401df0df17f384788ec1d1550e14.jpg 1587w" sizes="100vw" />
+</picture>
+<figcaption>Product resource page</figcaption>
+</figure>
+<h2 id="product-pricing">Product Pricing</h2>
+<figure>
+<picture title="Product pricing page">
+<source type="image/webp" srcset="http://localhost:8000/assets/thumbnails/480/account-price.79e7481fc17b863c40997b146194d37f.webp 480w, http://localhost:8000/assets/thumbnails/640/account-price.79e7481fc17b863c40997b146194d37f.webp 640w, http://localhost:8000/assets/thumbnails/768/account-price.79e7481fc17b863c40997b146194d37f.webp 768w, http://localhost:8000/assets/thumbnails/1024/account-price.79e7481fc17b863c40997b146194d37f.webp 1024w, http://localhost:8000/assets/thumbnails/1366/account-price.79e7481fc17b863c40997b146194d37f.webp 1366w, http://localhost:8000/account-price.79e7481fc17b863c40997b146194d37f.webp 1588w" sizes="100vw" />
+<img src="http://localhost:8000/account-price.79e7481fc17b863c40997b146194d37f.jpg" alt="Product pricing page" loading="lazy" decoding="async" class="dark:brightness-90" width="1588" height="655" srcset="http://localhost:8000/assets/thumbnails/480/account-price.79e7481fc17b863c40997b146194d37f.jpg 480w, http://localhost:8000/assets/thumbnails/640/account-price.79e7481fc17b863c40997b146194d37f.jpg 640w, http://localhost:8000/assets/thumbnails/768/account-price.79e7481fc17b863c40997b146194d37f.jpg 768w, http://localhost:8000/assets/thumbnails/1024/account-price.79e7481fc17b863c40997b146194d37f.jpg 1024w, http://localhost:8000/assets/thumbnails/1366/account-price.79e7481fc17b863c40997b146194d37f.jpg 1366w, http://localhost:8000/account-price.79e7481fc17b863c40997b146194d37f.jpg 1588w" sizes="100vw" />
+</picture>
+<figcaption>Product pricing page</figcaption>
+</figure>
+<h2 id="product-stock-levels">Product Stock Levels</h2>
+<figure>
+<picture title="Product inventory page">
+<source type="image/webp" srcset="http://localhost:8000/assets/thumbnails/480/inventory-list.30abba711bf404c5e256837ad9b957e7.webp 480w, http://localhost:8000/assets/thumbnails/640/inventory-list.30abba711bf404c5e256837ad9b957e7.webp 640w, http://localhost:8000/assets/thumbnails/768/inventory-list.30abba711bf404c5e256837ad9b957e7.webp 768w, http://localhost:8000/assets/thumbnails/1024/inventory-list.30abba711bf404c5e256837ad9b957e7.webp 1024w, http://localhost:8000/assets/thumbnails/1366/inventory-list.30abba711bf404c5e256837ad9b957e7.webp 1366w, http://localhost:8000/inventory-list.30abba711bf404c5e256837ad9b957e7.webp 1546w" sizes="100vw" />
+<img src="http://localhost:8000/inventory-list.30abba711bf404c5e256837ad9b957e7.jpg" alt="Product inventory page" loading="lazy" decoding="async" class="dark:brightness-90" width="1546" height="520" srcset="http://localhost:8000/assets/thumbnails/480/inventory-list.30abba711bf404c5e256837ad9b957e7.jpg 480w, http://localhost:8000/assets/thumbnails/640/inventory-list.30abba711bf404c5e256837ad9b957e7.jpg 640w, http://localhost:8000/assets/thumbnails/768/inventory-list.30abba711bf404c5e256837ad9b957e7.jpg 768w, http://localhost:8000/assets/thumbnails/1024/inventory-list.30abba711bf404c5e256837ad9b957e7.jpg 1024w, http://localhost:8000/assets/thumbnails/1366/inventory-list.30abba711bf404c5e256837ad9b957e7.jpg 1366w, http://localhost:8000/inventory-list.30abba711bf404c5e256837ad9b957e7.jpg 1546w" sizes="100vw" />
+</picture>
+<figcaption>Product inventory page</figcaption>
+</figure>
+<h2 id="creating-product">Creating Product</h2>
+<h2 id="updating-product">Updating Product</h2>]]>
+    </content>
+    <link href="http://localhost:8000/docs/user-guides/product-management/" rel="alternate" type="text/html" />
+    <published>2024-01-17T15:13:47+00:00</published>
+    <updated>2024-01-17T15:13:47+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/user-guides/api-management/</id>
+    <title>API Management</title>
+    <content type="html">
+      <![CDATA[<h1 id="api-management">API Management</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>]]>
+    </content>
+    <link href="http://localhost:8000/docs/user-guides/api-management/" rel="alternate" type="text/html" />
+    <published>2024-01-17T13:17:14+00:00</published>
+    <updated>2024-01-17T13:17:14+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/user-guides/user-management/</id>
+    <title>User management</title>
+    <content type="html">
+      <![CDATA[<h1 id="user-management">User Management</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>]]>
+    </content>
+    <link href="http://localhost:8000/docs/user-guides/user-management/" rel="alternate" type="text/html" />
+    <published>2024-01-17T13:17:00+00:00</published>
+    <updated>2024-01-17T13:17:00+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/reference/reference/</id>
+    <title>Reference</title>
+    <content type="html">
+      <![CDATA[]]>
+    </content>
+    <link href="http://localhost:8000/docs/reference/reference/" rel="alternate" type="text/html" />
+    <published>2024-01-17T12:47:31+00:00</published>
+    <updated>2024-01-17T12:47:31+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/installation/configure-the-software/</id>
+    <title>Configure the software</title>
+    <content type="html">
+      <![CDATA[<h1 id="configure-the-application">Configure the application</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>]]>
+    </content>
+    <link href="http://localhost:8000/docs/installation/configure-the-software/" rel="alternate" type="text/html" />
+    <published>2024-01-17T12:26:26+00:00</published>
+    <updated>2024-01-17T12:26:26+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/installation/setup-application/</id>
+    <title>Setup application</title>
+    <content type="html">
+      <![CDATA[<h1 id="setup-application">Setup application</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>]]>
+    </content>
+    <link href="http://localhost:8000/docs/installation/setup-application/" rel="alternate" type="text/html" />
+    <published>2024-01-17T12:26:17+00:00</published>
+    <updated>2024-01-17T12:26:17+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/introduction/getting-started/</id>
+    <title>Getting started</title>
+    <content type="html">
+      <![CDATA[<h1 id="getting-started">Getting started</h1>]]>
+    </content>
+    <link href="http://localhost:8000/docs/introduction/getting-started/" rel="alternate" type="text/html" />
+    <published>2024-01-17T12:23:32+00:00</published>
+    <updated>2024-01-17T12:23:32+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/troubleshooting/faq/</id>
+    <title>FAQ</title>
+    <content type="html">
+      <![CDATA[<h1 id="faq">FAQ</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>]]>
+    </content>
+    <link href="http://localhost:8000/docs/troubleshooting/faq/" rel="alternate" type="text/html" />
+    <published>2024-01-17T12:20:47+00:00</published>
+    <updated>2024-01-17T12:20:47+00:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/docs/user-guides/project-structure/</id>
+    <title>Project structure</title>
+    <content type="html">
+      <![CDATA[<h1 id="project-structure">Project structure</h1>
+<aside class="note note-info"><p>Work in progress.</p></aside>
+<h2 id="title-1">Title 1</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2 id="title-2">Title 2</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]>
+    </content>
+    <link href="http://localhost:8000/docs/user-guides/project-structure/" rel="alternate" type="text/html" />
+    <published>2024-01-15T15:12:40+00:00</published>
+    <updated>2024-01-15T15:12:40+00:00</updated>
+  </entry>
+</feed>

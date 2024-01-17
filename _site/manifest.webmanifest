@@ -1,0 +1,38 @@
+{
+  "name": "OctoPHP",
+  "short_name": "OctoPHP",
+  "description": "Inventory management software",
+  "display": "standalone",
+  "start_url": "http://localhost:8000/",
+  "id": "http://localhost:8000/",
+  "orientation": "any",
+  "background_color": "#EEF6FF",
+  "theme_color": "#1C4ED8",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [{
+    "src": "http://localhost:8000/icon-192x192.72d0f64567d38a4f7c6690fc6a2ad888.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },{
+    "src": "http://localhost:8000/icon-512x512.fcb6e4596edf7465a39f7e9266dc6771.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  },{
+    "src": "http://localhost:8000/icon-192x192-maskable.56ce76055f80ef25f6a356798d595f5f.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "maskable"
+  },{
+    "src": "http://localhost:8000/icon-512x512-maskable.abfe0bf345d0d4267cb86fa4b78947ae.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  }],
+  "screenshots": [],
+  "serviceworker": {
+    "src": "http://localhost:8000/serviceworker.js",
+    "scope": "/",
+    "use_cache": false
+  }
+}
